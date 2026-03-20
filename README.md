@@ -8,7 +8,7 @@ This project automates the deployment of a secure, modularized AWS environment i
 - **Database**: Amazon RDS (PostgreSQL) isolated in private subnets.
 - **Security**: Strict Security Group rules allowing only HTTP/SSH to the web tier and internal traffic to the DB.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 1. [Terraform](https://www.terraform.io/downloads.html) installed.
